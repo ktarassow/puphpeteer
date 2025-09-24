@@ -1,5 +1,5 @@
 {
-  "name": "zoonru/puphpeteer",
+  "name": "zoon/puphpeteer",
   "description": "A Puppeteer bridge for PHP, supporting the entire API.",
   "keywords": [
     "php",
